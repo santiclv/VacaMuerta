@@ -37,7 +37,7 @@ Del universo de avisos se seleccionan solo las observaciones de las provincias:
 - **Río Negro**
 
 Dentro de ellas, se filtran las ciudades que conforman el ecosistema directo de Vaca Muerta:
-- Neuquén / Confluencia (*unificadas como una sola plaza: “Neuquén”*)
+- Neuquén
 - General Roca  
 - Cipolletti  
 - Plottier  
