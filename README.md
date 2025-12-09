@@ -106,16 +106,16 @@ price_m2 = price / surface_total
 ## 6. Metodología de análisis
 
 El análisis se organiza en dos niveles:
+1. **Precio total de venta (USD)**  
+   Se utiliza como una descripción preliminar del mercado inmobiliario regional.  
+   Dado que esta métrica combina efectos de tamaño, tipo de propiedad y estructura urbana,
+   sus resultados se interpretan de manera descriptiva y no inferencial.
 
-### a) Precio total de la propiedad (USD)
-- Distribuciones de precios por ciudad.  
-- Cálculo de medianas por ciudad.  
-- Comparación de precios relativos entre Añelo, Neuquén capital y ciudades dormitorio de la región.
+2. **Precio por metro cuadrado (USD/m²)**  
+   Esta métrica constituye la base principal del análisis comparativo.
+   Al ajustar por superficie, permite aislar con mayor precisión el efecto de la localización
+   y la cercanía al nodo productivo petrolero sobre los valores inmobiliarios.
 
-### b) Precio por metro cuadrado (USD/m²)
-- Distribuciones de precios por ciudad.  
-- Cálculo de medianas por ciudad.  
-- Medición de brechas porcentuales (“prima”) entre ciudades.
 
 En todos los casos se utilizan principalmente:
 - **Mediana** como medida de tendencia central, por ser menos sensible a valores extremos.  
